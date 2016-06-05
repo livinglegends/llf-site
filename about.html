@@ -1,0 +1,112 @@
+---
+layout: default
+title: "About"
+---
+<div class="container margin-top">
+  <div class="row">
+    <div class="col-xs-12">
+          <p class="slogan text-center animated bounceInLeft animation-delay-12">The LLF honors those unsung <span>heroes</span> whose efforts might otherwise go unnoticed. The LLF exists because of a need to recognize and promote the <span>achievements</span> of those members of the <span>radio, music and entertainment industries</span> and to help secure their place in history.</p>
+          <h1 class="right-line no-margin-top">About us</h1>
+      </div>
+
+  </div> <!-- row -->
+    <div class="row">
+        <div class="col-md-9">
+            <section class="animated fadeInDown animation-delay-8">
+                <img src="img/team.jpg" class="img-responsive imageborder" alt="Image">
+                <p class="p-lg">The Living Legends Foundation (LLF) is a registered 501 (c) (3) non-profit, tax-exempt organization first founded in Los Angeles in 1991 and incorporated in 1992, by record industry icon Ray Harris and radio programming legend Jerry Boulding. The organization has been funded primarily with corporate contributions and individual donations. Initial funding was provided from the sale of tickets to the first annual Living Legends Dinner, which was held on April 22, 1993 at the site of the Impact Conference at The Bally's Casino in Atlantic City, New Jersey.</p>
+                <p class="p-lg">The original purpose of The Living Legends Foundation was to recognize and honor legendary music and radio industry figures that have distinguished themselves by their contributions as trailblazers, trendsetter, teachers and/or mentors. The Living Legends Foundation is an organization dedicated to recognizing those members of the entertainment industry whose efforts and contributions have paved the way for many in the entertainment industry, especially, minorities and women. Many of those opportunities are in the areas of recorded music, radio broadcasting and retail (record stores).</p>
+                <p class="p-lg">The LLF honors those unsung heroes whose efforts might otherwise go unnoticed. The LLF exists because of a need to recognize and promote the achievements of those members of the radio, music and entertainment industries and to help secure their place in history.</p>
+                <h4>The Mission Statement</h4>
+                <p class="p-lg">Over the years the LLF has expanded its mission from just recognizing the achievements of the trailblazers of yesterday and today's new trailblazers to providing assistance to those, who have fallen on hard times. Unfortunately, unlike today with corporate pension plans and 401K options many of the early pioneers were left without healthcare, retirement funds and other benefits to sustain them when their careers were over. Therefore, the LLF has expanded its mission to provide financial assistance to some of its honorees and other industry members who had fallen on hard times. Over the years the LLF has provided almost $100,000 in assistance to those in need.</p>
+                <p class="p-lg">While most of those selected by The Living Legends Foundation are primarily honored at the Foundation's annual dinner, honorariums or other financial assistance is awarded to honorees that have a demonstrated need. Information and documentation regarding the financial need of an honoree is specifically requested at the time such an individual is nominated by the Foundation to be honored. However, LLF has provided assistance to those who have not been honored but have shown a demonstrated need.</p>
+                <!-- <h4>The Foundation Today</h4>
+                <p class="p-lg"></p> -->
+            </section>
+
+        </div>
+
+        {% include sidebar_ad.html %}
+
+    </div> <!-- row -->
+    <div class="row">
+
+
+        <div id="" class="col-sm-6 col-md-6">
+                <h3 class="section-title">Founders</h3>
+                <div class="panel-group" id="accordion">
+
+                  {% for founder in site.founders %}
+                  <div class="panel panel-default">
+                      <div class="panel-heading panel-heading-link">
+                              <a data-toggle="collapse" data-parent="#accordion" href="#fcollapse{{forloop.index}}">
+                                  {{ founder.name }}
+                              </a>
+                      </div>
+                      <div id="fcollapse{{forloop.index}}" class="panel-collapse collapse">
+                          <div class="panel-body">
+                            {{ founder.content }}
+                          </div>
+                      </div>
+                  </div>
+                  {% endfor %}
+
+                </div>
+        </div>
+
+
+
+          <div class="col-sm-6 col-md-6 boardsection-img">
+                  <img src="img/board/ray-harris-founder.jpg" class="img-responsive imageborder" alt="Image">
+          </div>
+    </div>
+
+              <div class="row">
+                <div class="col-sm-6 col-md-6">
+                <h3 class="section-title">Board Members</h3>
+                <div class="panel-group" id="accordion">
+
+                  {% for bmember in site.boardmembers %}
+                  <div class="panel panel-default">
+                      <div class="panel-heading panel-heading-link">
+                              <a data-toggle="collapse" data-parent="#accordion" href="#bmcollapse{{forloop.index}}">
+                                  {{ bmember.name }}
+                              </a>
+                      </div>
+                      <div id="bmcollapse{{forloop.index}}" class="panel-collapse collapse">
+                          <div class="panel-body">
+                            {{ bmember.content }}
+                          </div>
+                      </div>
+                  </div>
+                  {% endfor %}
+
+                </div>
+                </div>
+
+
+                <div class="col-sm-6 col-md-6">
+                <h3 class="section-title">Advisory Board</h3>
+                <div class="panel-group" id="accordion">
+
+                  {% for aboard in site.advisoryboard %}
+                  <div class="panel panel-default">
+                      <div class="panel-heading panel-heading-link">
+                              <a data-toggle="collapse" data-parent="#accordion" href="#abcollapse{{forloop.index}}">
+                                  {{ aboard.name }}
+                              </a>
+                      </div>
+                      <div id="abcollapse{{forloop.index}}" class="panel-collapse collapse">
+                          <div class="panel-body">
+                            {{ aboard.content }}
+                          </div>
+                      </div>
+                  </div>
+                  {% endfor %}
+
+                </div>
+              </div>
+        </div>
+
+    </div> <!-- row -->
+</div> <!-- container -->

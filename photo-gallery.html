@@ -1,0 +1,82 @@
+---
+layout: default
+title: Photo Gallery
+gallery:
+  - img-title: Image Title
+    img_path: /img/gallery/1.jpg
+    category: category-1
+    caption: ""
+  - img-title: Image Title
+    img_path: /img/gallery/2.jpg
+    category: category-1
+    caption: ""
+  - img-title: Image Title
+    img_path: /img/gallery/3.jpg
+    category: category-1
+    caption: ""
+  - img-title: Image Title
+    img_path: /img/gallery/4.jpg
+    category: category-1
+    caption: ""
+  - img-title: Image Title
+    img_path: /img/gallery/5.jpg
+    category: category-1
+    caption: ""
+  - img-title: Image Title
+    img_path: /img/gallery/6.jpg
+    category: category-1
+    caption: ""
+
+---
+
+<header class="main-header">
+    <div class="container">
+        <h1 class="page-title">Photo Gallery</h1>
+
+
+    </div>
+</header>
+
+<div class="container">
+    <div class="portfolio-topbar hidden-sm hidden-xs">
+        <div class="row">
+            <div class="col-md-12">
+
+                <h4>Categories</h4>
+                <ul class="portfolio-topbar-cats">
+                    <li><span class="filter" data-filter="all">All</span></li>
+                    <li><span class="filter" data-filter=".category-1">Events</span></li>
+                    <li><span class="filter" data-filter=".category-2">2013</span></li>
+                    <li><span class="filter" data-filter=".category-3">2014</span></li>
+                    <li><span class="filter" data-filter=".category-4">2015</span></li>
+                    <li><span class="filter" data-filter=".category-5">2016</span></li>
+                    <li><span class="filter" data-filter=".category-6">Awards</span></li>
+                </ul>
+                <span class="topbar-border">&nbsp;</span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="row" id="Container">
+
+              {% for item in page.gallery %}
+                <div class="mix {{ item.category }} col-md-4 col-sm-6 col-xs-12">
+                  <a href="#" class="thumbnail">
+                    <img src="{{ item.img_path }}" class="img-responsive" alt="{{ item.img-title }}">
+                  </a>
+                  <div class="portfolio-item-caption hide">
+                      <h4>{{ item.img-title }}</h4>
+                      <p>{{ item.caption }}</p>
+                  </div>
+              </div>
+
+
+              {% endfor %}
+
+
+
+        </div> <!-- col-md-9 -->
+    </div>
+  </div>
+</div> <!-- container -->

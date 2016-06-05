@@ -1,0 +1,58 @@
+---
+layout: default
+title: Portfolio
+portfolio:
+  - image_path: /img/portfolio/1.jpg
+    category: Web Design
+    project: Apple
+    url: http://apple.com
+  - image_path: /img/portfolio/2.jpg
+    category: SEO
+    project: Tesla
+    url: http://www.teslamotors.com/
+  - image_path: /img/portfolio/3.jpg
+    category: SEO
+    project: Optimizely
+    url: https://www.optimizely.com/
+  - image_path: /img/portfolio/4.jpg
+    category: Content Writing
+    project: GitHub
+    url: https://github.com/
+  - image_path: /img/portfolio/5.jpg
+    category: Web Design
+    project: Dropbox
+    url: https://www.dropbox.com
+  - image_path: /img/portfolio/6.jpg
+    category: Social Media Marketing
+    project: Uber
+    url: https://www.uber.com/
+---
+<section class="bg-dark">
+  <div class="text-center">
+    <h1>Portfolio yup</h1>
+  </div>
+</section>
+
+<section class="no-padding" id="portfolio">
+  <div class="container-fluid">
+    <div class="row no-gutter">
+      {% for item in page.portfolio %}
+      <div class="col-lg-4 col-sm-6">
+        <a href="{{ item.url }}" class="portfolio-box">
+          <img src="{{ item.image_path }}" class="img-responsive" alt="{{ item.project }}">
+          <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+              <div class="project-category text-faded">
+                {{ item.category }}
+              </div>
+              <div class="project-name">
+                {{ item.project }}
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

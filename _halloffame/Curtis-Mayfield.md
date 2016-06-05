@@ -1,0 +1,18 @@
+---
+name: "Curtis Mayfield"
+inducted: "1992"
+img: nil
+img_path: nil
+---
+
+Curtis Mayfield played a major pivotal role in soul music and influenced countless musicians and politicians.  Between 1961 and 1971, he wrote a succession of influential singles for his group, including “Gypsy Woman” (1961), “It's All Right” (1963), “People Get Ready” (1965), “We're A Winner” (1968) and “Choice Of Colours” (1969).
+
+Mr. Mayfield wrote tender love songs and those protesting social and political equality. Decades later Bob Marley lifted lines from “People Get Ready” to populate his own recording, “One Love”. Two independent record companies, Windy C and Curtom, emphasized Mr. Mayfield's important role within black music, while his continued support for other artists as composer, producer or session guitarist, enhanced a reputation beyond that of just a singer.
+
+Jerry Butler, Major Lance, Gene Chandler and Walter Jackson are among the many Chicago-based singers benefiting from Mr. Mayfield's songwriting skills.  Having parted company with The Impressions in 1970, he began his solo career with “(Don't Worry) If There's A Hell Below We're All Going To Go”, a suitably astringent protest song. The following year Mr. Mayfield penned one of his biggest songs, “Move On Up”, an energetic dancer that charted in the USA and U.K. alike.
+
+The awards continued as success was maintained with “Freddie's Dead” (US R & B number 2 / number 4 pop hit) and the theme from “Superfly” (1972), a Blaxploitation film for which he wrote the music.  Both singles and the album achieved gold status, inspiring further excursions into the movies. The soundtracks include 'Claudine', 'A Piece Of The Action', 'Sparkle' and 'Short Eyes', the last of which featured Mr. Mayfield in an acting role. The singer continued to prove popular and subsequent work, including his production of Aretha Franklin's 1978 album, “Almighty Fire” is held in high regard. In 1981, he joined the Boardwalk label, for which he recorded “Honesty”, his strongest album since the days of the early 70's. The death of the label's managing director left an enormous gap, and Mr. Mayfield's career was then blighted by music industry lethargy.
+
+In 1990, a freak accident, in which part of a public address rig collapsed on top of him during a concert, left Mr. Mayfield permanently paralyzed from the neck down. The effects, both personal and professional, proved costly, but not completely devastating in terms of his musical career. The material from 'BBC Radio 1 Live In Concert' was gathered from the gig at London's Town And Country Club during Mayfield's 1990 European tour. In 1993, Warner Brothers released “A Tribute To Curtis Mayfield” featuring various artists including Lenny Kravitz, Whitney Houston, Aretha Franklin, Bruce Springsteen, Rod Stewart, Elton John and Steve Winwood, which was an excellent tribute to the Mayfield songbook. Aretha's version of 'The Makings Of You' was excellent.
+
+A year later Charly Records reissued the majority of Mr. Mayfield’s 70's albums on CD as well as several compilations. In 1996,Rhino Records gathered the best package in a three-CD box set. At the end of 1996, a new album, “New World Order”, was released to excellent reviews. During the recording of “New World Order”, Mr. Mayfield had to lie on his front, suspended by a harness, in order to give some gravitational power to his voice. His contribution to soul music has been immense. Whatever the limitations of his disability, his voice, however, remained perfect, sensitive and unique.  In 1999, Mr. Mayfield passed away in his sleep at the North Fulton Regional Hospital in Roswell, Georgia, U.S.A. 

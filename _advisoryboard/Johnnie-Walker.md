@@ -1,0 +1,8 @@
+---
+name: "Johnnie Walker"
+img: yes
+img_path: /img/_advisory-board/johnnie.gif
+---
+
+Ms. Walker has had a stellar career in the music industry beginning as a radio announcer in her native Memphis, Tenn. The former Head of Urban Music promotions for the David Geffen, Steven Spielberg label DreamWorks Records is currently the Chairperson and Founder of the National Association for Black Females in Music Entertaiment. The organization provides a support system for women not only in music but has branched out to all fields of entertainment. She joined Russell Simmon's Def Jam label where she rose to become Senior Vice President of Promotions, the only woman to hold that position at the company and became a driving force behind the careers of such notable cutting edge artists as Public Enemy, DMX, JaRule, Montell, Jordan, LL Cool J, Ludacris and Ashanti. 
+She also provided the marketing and promotional strategies for such major motion picture soundtracks "Rush Hour" and Eddie Murphy's "Nutty Professor." Through her work at NABFEME she is making sure that women in entertainment have a support system from which they can draw support. One of her greatest programs that the organization has is it mentoring program to ensure that the next generation of female executives have a solid foundation. Her work with NABFEME and LLC allows her to bridge the generations of those who love music and the entertainment fields.
