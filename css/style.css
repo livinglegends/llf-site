@@ -1165,7 +1165,13 @@ hr.double {
 /* Artificial Reason Class */
 /* ---------------------------------------------------- */
 #Container .mix {
-  display: none;
+padding:0;
+}
+#Container .mix .thumbnail {
+  margin: 0;
+}
+#Container .mix .thumbnail:hover{
+  background:#5f1c16;
 }
 .text-icon {
   margin-bottom: 30px;
@@ -2999,7 +3005,7 @@ textarea.form-control:focus {
 }
 .panel .panel-heading-link a:after {
   font-family: 'FontAwesome';
-  content: "\f107";
+  content: "\f1ea";
   font-size: 1.2em;
   float: right;
   background-color: #808080;
@@ -3020,7 +3026,7 @@ textarea.form-control:focus {
   background-color: #333;
 }
 .panel .panel-heading-link a.collapsed:after {
-  content: "\f104";
+  content: "\f1ea";
 }
 .panel-success .panel-heading-link a:after {
   background-color: #02c66c;
