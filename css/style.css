@@ -994,6 +994,10 @@ h2 {
 h3 {
   font-size: 1.7em;
 }
+.hof_h3 {
+  font-weight:400;
+  color:#676767;
+}
 h4 {
   font-size: 1.4em;
 }
@@ -1014,7 +1018,8 @@ a {
 a:hover,
 a:focus,
 a:active {
-  color: #000;
+  color: #5f1c16;
+  /*text-shadow: 1px 1px 1px #676767;*/
 }
 a.button {
   text-decoration: none;
@@ -5672,6 +5677,10 @@ a.feature-icon:hover {
 /* ---------------------------------------------------- */
 .home-news-box {
   margin-bottom: 30px;
+  text-align:center;
+}
+.home-news-box a:hover{
+  text-shadow: none;
 }
 @media (max-width: 991px) {
   .home-news-box {

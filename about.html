@@ -64,12 +64,12 @@ title: "About"
               <div class="row">
                 <div class="col-sm-6 col-md-6">
                 <h3 class="section-title">Board Members</h3>
-                <div class="panel-group" id="accordion">
+                <div class="panel-group" id="accordion2">
 
                   {% for bmember in site.boardmembers %}
                   <div class="panel panel-default">
                       <div class="panel-heading panel-heading-link">
-                              <a data-toggle="collapse" data-parent="#accordion" href="#bmcollapse{{forloop.index}}">
+                              <a data-toggle="collapse" data-parent="#accordion2" href="#bmcollapse{{forloop.index}}">
                                   {{ bmember.name }}
                               </a>
                       </div>
@@ -87,12 +87,12 @@ title: "About"
 
                 <div class="col-sm-6 col-md-6">
                 <h3 class="section-title">Advisory Board</h3>
-                <div class="panel-group" id="accordion">
+                <div class="panel-group" id="accordion3">
 
                   {% for aboard in site.advisoryboard %}
                   <div class="panel panel-default">
                       <div class="panel-heading panel-heading-link">
-                              <a data-toggle="collapse" data-parent="#accordion" href="#abcollapse{{forloop.index}}">
+                              <a data-toggle="collapse" data-parent="#accordion3" href="#abcollapse{{ forloop.index }}">
                                   {{ aboard.name }}
                               </a>
                       </div>
