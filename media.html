@@ -1,0 +1,23 @@
+---
+layout: default
+title: media
+medialist: 
+ - title: title1
+   youtube-link: hhhtljdflkjdfkljd
+   caption: here it is
+ - title: title1
+   youtube-link: hhhtljdflkjdfkljd
+   caption: here it is
+ - title: title1
+   youtube-link: hhhtljdflkjdfkljd
+   caption: here it is
+---
+
+<div>This is the media page!!!</div>
+
+{% for item in page.medialist %}
+<iframe src="{{ item.youtube-link }}"></iframe>
+
+<p>{{ item.caption }}</p>
+
+{% endfor %}

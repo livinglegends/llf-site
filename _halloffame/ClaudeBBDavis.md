@@ -1,5 +1,5 @@
 ---
-name: "Claude "B.B." Davis"
+name: 'Claude "B.B." Davis'
 inducted: "1996"
 img: nil
 img_path: nil
