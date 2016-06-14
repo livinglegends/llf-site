@@ -2709,6 +2709,10 @@ input {
   border-radius: 0 !important;
   box-shadow: none;
 }
+.subscribe-form {
+  margin:0.5em;
+  padding:0.2em;
+}
 .form-control {
   display: block;
   border-radius: 0;
@@ -3343,6 +3347,15 @@ a.thumbnail.active {
 }
 .thumbnail.thumbnail-round > img {
   border-radius: 5px;
+}
+.am-wrapper{
+	float:left;
+	position:relative;
+	overflow:hidden;
+}
+.am-wrapper img{
+	position:absolute;
+	outline:none;
 }
 /* Caption */
 .img-caption-llf {

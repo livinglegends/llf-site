@@ -16,17 +16,8 @@ title: Photo Galleries
         <div class="row">
             <div class="col-md-12">
 
-                <h4>Categories</h4>
-                <ul class="portfolio-topbar-cats">
-                    <li><span class="filter" data-filter="all">All</span></li>
-                    <li><span class="filter" data-filter=".category-1">Events</span></li>
-                    <li><span class="filter" data-filter=".category-2">2013</span></li>
-                    <li><span class="filter" data-filter=".category-3">2014</span></li>
-                    <li><span class="filter" data-filter=".category-4">2015</span></li>
-                    <li><span class="filter" data-filter=".category-5">2016</span></li>
-                    <li><span class="filter" data-filter=".category-6">Awards</span></li>
-                </ul>
-                <span class="topbar-border">&nbsp;</span>
+                <h4>15th Annual Living Legends Award Banquet</h4>
+
             </div>
         </div>
     </div>
@@ -34,20 +25,30 @@ title: Photo Galleries
         <div class="col-md-12">
             <div class="row" id="Container">
 
-              <!-- {% for item in site.data.2014_Banquet %}
-                <div class="mix {{ item.category }} col-md-4 col-sm-6 col-xs-12">
-                  <a href="#" class="thumbnail">
-                    <img src="{{ item.img_path }}" class="img-responsive" alt="{{ item.category }}">
-                  </a>
-                  <div class="portfolio-item-caption">
-                      <h4>{{ item.img_title }}</h4>
-                      <p>{{ item.category }}</p>
-                  </div>
+
+
+              <div class="am-container" id="am-container">
+                {% for item in site.data.15th_annual %}
+            	<a target="_blank" href="img/15th_annual/{{item.img_path}}"><img width="20%" src="img/15th_annual/{{item.img_path}}" title="{{item.img_caption}}"></img></a>
+              {% endfor %}
               </div>
+              <!-- </div> -->
 
 
-              {% endfor %} -->
-              <iframe src='http://thelivinglegendsfoundation.pixieset.com/the2014livinglegendsawards/'; style='border:0'></iframe>
+              <!-- {% for item in site.data.15th_annual %}
+               <div class="mix {{ item.category }} col-md-4 col-sm-6 col-xs-12">
+                 <a href="#" class="thumbnail">
+                   <img src="img/15th_annual/{{item.img_path}}" class="img-responsive" alt="{{ item.img_caption }}">
+                 </a>
+                 <div class="portfolio-item-caption hide">
+                     <h4>{{ item.img_caption }}</h4>
+                     <p>{{ item.img_caption }}</p>
+                 </div>
+             </div>
+
+
+             {% endfor %} -->
+
 
 
 
