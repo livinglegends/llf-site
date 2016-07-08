@@ -1091,6 +1091,9 @@ dd {
   width:70%;
   margin:10% 15%;
 }
+.boardsection h3 {
+  margin-top:0;
+}
 img + p {
   margin-top: 20px;
 }
