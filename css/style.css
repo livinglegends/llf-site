@@ -994,6 +994,10 @@ h2 {
 h3 {
   font-size: 1.7em;
 }
+.hof_h3 {
+  font-weight:400;
+  color:#676767;
+}
 h4 {
   font-size: 1.4em;
 }
@@ -1014,7 +1018,8 @@ a {
 a:hover,
 a:focus,
 a:active {
-  color: #000;
+  color: #5f1c16;
+  /*text-shadow: 1px 1px 1px #676767;*/
 }
 a.button {
   text-decoration: none;
@@ -1163,7 +1168,13 @@ hr.double {
 /* Artificial Reason Class */
 /* ---------------------------------------------------- */
 #Container .mix {
-  display: none;
+padding:0;
+}
+#Container .mix .thumbnail {
+  margin: 0;
+}
+#Container .mix .thumbnail:hover{
+  background:#5f1c16;
 }
 .text-icon {
   margin-bottom: 30px;
@@ -2701,6 +2712,10 @@ input {
   border-radius: 0 !important;
   box-shadow: none;
 }
+.subscribe-form {
+  margin:0.5em;
+  padding:0.2em;
+}
 .form-control {
   display: block;
   border-radius: 0;
@@ -2997,7 +3012,7 @@ textarea.form-control:focus {
 }
 .panel .panel-heading-link a:after {
   font-family: 'FontAwesome';
-  content: "\f107";
+  content: "\f1ea";
   font-size: 1.2em;
   float: right;
   background-color: #808080;
@@ -3018,7 +3033,7 @@ textarea.form-control:focus {
   background-color: #333;
 }
 .panel .panel-heading-link a.collapsed:after {
-  content: "\f104";
+  content: "\f1ea";
 }
 .panel-success .panel-heading-link a:after {
   background-color: #02c66c;
@@ -3335,6 +3350,15 @@ a.thumbnail.active {
 }
 .thumbnail.thumbnail-round > img {
   border-radius: 5px;
+}
+.am-wrapper{
+	float:left;
+	position:relative;
+	overflow:hidden;
+}
+.am-wrapper img{
+	position:absolute;
+	outline:none;
 }
 /* Caption */
 .img-caption-llf {
@@ -5675,6 +5699,10 @@ a.feature-icon:hover {
 /* ---------------------------------------------------- */
 .home-news-box {
   margin-bottom: 30px;
+  text-align:center;
+}
+.home-news-box a:hover{
+  text-shadow: none;
 }
 @media (max-width: 991px) {
   .home-news-box {
