@@ -3385,6 +3385,7 @@ a.thumbnail.active {
   -ms-transition: all .25s ease;
   -o-transition: all .25s ease;
   transition: all .25s ease;
+  display: none;
 }
 .caption-llf .caption-content {
   width: 80%;

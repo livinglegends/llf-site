@@ -65,3 +65,28 @@ jQuery(document).ready(function() { // makes sure the whole site is loaded
 
 // full-width-checkbox
 $("[name='full-width-checkbox']").bootstrapSwitch();
+
+/*
+//Load 'about', then Scroll to founders
+function founders(e) {
+     e.preventDefault();
+     location.href = "about.html";
+     window.onload = function() {
+       $(window).scrollTop($("h3:contains('Founders'):last").offset().top);
+   })
+ });
+ */
+/*
+ $("#founderslink").on('click' function ()  {
+   location.href = "about.html";
+    var i = setInterval(function ()
+    {
+        if ($('#founders').length)
+        {
+            clearInterval(i);
+            // safe to execute your code here
+            $(window).scrollTop($("h3:contains('Founders'):last").offset().top);
+        }
+    }, 100);
+});
+*/
