@@ -1,5 +1,11 @@
 collections:
-  - founders
-  - boardmembers
-  - advisoryboard
-  - halloffame
+  founders:
+    output: false
+  boardmembers:
+    output: false
+  advisoryboard:
+    output: false
+  halloffame:
+    output: false
+  photogalleries:
+    output: true
