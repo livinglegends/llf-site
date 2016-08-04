@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<header class="main-header">
+    <div class="container">
+        <h1 class="page-title">Photo Galleries</h1>
+        <!-- {% for item in site.data.galleries %}
+          {{item[0]}}
+        {% endfor %} -->
+    </div>
+</header>
+
+<div class="container">
+    <div class="portfolio-topbar hidden-sm hidden-xs">
+        <div class="row">
+            <div class="col-md-12">
+
+                <h4>{{page.title}}</h4>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="row" id="Container">
+
+
+<!-- {{content}} -->
+              <div class="am-container" id="am-container">
+                {% assign gal = page.datafile %}
+                <span style="display:none;">{{gal}}</span>
+
+                {% for item in site.data.galleries.15th_annual %}
+            	<a target="_blank" href="img/{{gal}}/{{item.img_path}}"><img width="20%" src="img/{{gal}}/{{item.img_path}}" title="{{item.img_caption}}"></img></a>
+              {% endfor %}
+              </div>
+
+
+
+
+
+
+        </div> <!-- col-md-9 -->
+    </div>
+  </div>
+</div> <!-- container -->
