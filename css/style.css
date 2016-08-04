@@ -1528,6 +1528,7 @@ padding:0;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@primary-color', endColorstr='darken(@primary-color, 5%)', GradientType=0);
   background-color: #808080;
   border: 1px solid #737373;
+  padding: 0.5em 1em;
 }
 .btn-llf.btn-primary:active {
   background-color: #737373;

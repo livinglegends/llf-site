@@ -26,21 +26,7 @@ layout: default
             <div class="row" id="Container">
 
 
-<!-- {{content}} -->
-              <div class="am-container" id="am-container">
-                {% assign gal = page.datafile %}
-                <span id="whatgal" style="display:;">{{gal}}</span>
-                <script type="text/javascript">
-                $( document ).ready(function() {
-                    console.log($("#whatgal").html());
-                });
-                </script>
-
-                {% for item in site.data.galleries.15th_annual %}
-            	<!-- <a target="_blank" href="img/{{gal}}/{{item.img_path}}"><img width="20%" src="img/{{gal}}/{{item.img_path}}" title="{{item.img_caption}}"></img></a> -->
-              <a target="_blank"><img width="20%" src="https://s3-us-west-1.amazonaws.com/llf-photogalleries/{{gal}}{{item.img_path}}" title="{{item.img_caption}}"></img></a>
-              {% endfor %}
-              </div>
+{{content}}
 
 
 
@@ -51,3 +37,11 @@ layout: default
     </div>
   </div>
 </div> <!-- container -->
+{% assign wtf = site.data.galleries %}
+<span id="asdf" style="display:none;">{{wtf}}</span>
+<script type="text/javascript">
+$( document ).ready(function() {
+    console.log($("#whatgal").html());
+    console.log($("#asdf").html());
+});
+</script>
