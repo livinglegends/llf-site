@@ -39,9 +39,13 @@ layout: default
 </div> <!-- container -->
 {% assign wtf = site.data.galleries %}
 <span id="asdf" style="display:none;">{{wtf}}</span>
+
+{% assign urltest = site.github.url %}
+<span id="asdf" style="display:none;">site.url = {{urltest}}</span>
+
 <script type="text/javascript">
 $( document ).ready(function() {
     console.log($("#whatgal").html());
-    console.log($("#asdf").html());
+    console.log($("#asdf").html());    
 });
 </script>
