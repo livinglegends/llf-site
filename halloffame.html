@@ -15,7 +15,7 @@ title: "Hall of Fame"
             <section class="">
               <ol>
                 {% for listmember in site.halloffame %}
-                <a href="#halloffame-{{ forloop.index }}">{{ listmember.name}}</a>
+                <a href="{{page.url}}#halloffame-{{ forloop.index }}">{{ listmember.name}}</a>
                 {% unless forloop.last %} &nbsp;&nbsp;&#8226&nbsp;&nbsp; {% endunless %}
                 {% endfor %}
               </ol>
