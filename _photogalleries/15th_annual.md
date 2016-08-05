@@ -1,6 +1,12 @@
 ---
 layout: photogalleries
 title: 15th Annual Living Legends Award Banquet
-datafile: 15th_annual
+datafile: 15TH_ANNUAL
 ---
-content of 15th Annual Living Legends Award Banquet bla bla bla
+<div class="am-container" id="am-container">
+  {% assign gal = page.datafile %}
+  <span id="whatgal" style="display:none;">{{gal}}</span>
+  {% for item in site.data.galleries.15TH_ANNUAL %}
+<a target="_blank"><img width="20%" src="https://s3-us-west-1.amazonaws.com/llf-photogalleries/{{gal}}{{item.img_path}}" title="{{item.img_caption}}"></a>
+{% endfor %}
+</div>

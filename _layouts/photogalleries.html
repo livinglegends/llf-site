@@ -26,15 +26,7 @@ layout: default
             <div class="row" id="Container">
 
 
-<!-- {{content}} -->
-              <div class="am-container" id="am-container">
-                {% assign gal = page.datafile %}
-                <span style="display:none;">{{gal}}</span>
-
-                {% for item in site.data.galleries.15th_annual %}
-            	<a target="_blank" href="img/{{gal}}/{{item.img_path}}"><img width="20%" src="img/{{gal}}/{{item.img_path}}" title="{{item.img_caption}}"></img></a>
-              {% endfor %}
-              </div>
+{{content}}
 
 
 
@@ -45,3 +37,15 @@ layout: default
     </div>
   </div>
 </div> <!-- container -->
+{% assign wtf = site.data.galleries %}
+<span id="asdf" style="display:none;">{{wtf}}</span>
+
+{% assign urltest = site.github.url %}
+<span id="asdf" style="display:none;">site.url = {{urltest}}</span>
+
+<script type="text/javascript">
+$( document ).ready(function() {
+    console.log($("#whatgal").html());
+    console.log($("#asdf").html());    
+});
+</script>

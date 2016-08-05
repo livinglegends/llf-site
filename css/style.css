@@ -1528,6 +1528,7 @@ padding:0;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@primary-color', endColorstr='darken(@primary-color, 5%)', GradientType=0);
   background-color: #808080;
   border: 1px solid #737373;
+  padding: 0.5em 1em;
 }
 .btn-llf.btn-primary:active {
   background-color: #737373;
@@ -3385,6 +3386,7 @@ a.thumbnail.active {
   -ms-transition: all .25s ease;
   -o-transition: all .25s ease;
   transition: all .25s ease;
+  display: none;
 }
 .caption-llf .caption-content {
   width: 80%;
@@ -6133,7 +6135,7 @@ a.feature-icon:hover {
 .navbar-nav>li {
     float:none !important;
     display: inline-block;
-    padding: 0 2%;
+    padding: 0 1.7%;
 }
 .navbar-nav>li:hover,
 .navbar-nav>li:focus {
