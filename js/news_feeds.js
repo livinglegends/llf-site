@@ -8,7 +8,8 @@ $(function() {
       function(response) {
         // console.log();
         $.each(response.query.results.item, function (i,newsItem) {
-            $("#AllAccessNews-cont").append('<div class="media"><a class="pull-left" href="'+newsItem.link+'"><img class="media-object" src="img/ALLACCESSnewsimg.png"  alt="100x100" style="width: 100px; height: 100px;"></a><div class="media-body"><h4 class="media-heading">' + newsItem.title + '</h4><p>' + newsItem.description + '</p></div></div>');
+            var AAN_description = newsItem.description.split("...<br/>")[0];
+            $("#AllAccessNews-cont").append('<div class="media"><a class="pull-left" target="_blank" href="'+newsItem.link+'"><img class="media-object" src="img/ALLACCESSnewsimg.png"  alt="100x100" style="width: 100px; height: 100px;"></a><div class="media-body"><h4 class="media-heading">' + newsItem.title + '</h4><p>' + AAN_description + '<br><br><a target="_blank" href="' + newsItem.link + '">Read more</a></p></div></div>');
             return ( i !== (numArticles -1) );
         });
       });
