@@ -33,10 +33,10 @@ $(function() {
 						if( cnt === totalImgs ) {
 							$imgs.show();
 							$container.montage({
-								fillLastRow	: true,
+								fillLastRow	: false,
 								alternateHeight	: true,
 								alternateHeightRange : {
-									min	: 90,
+									min	: 120,
 									max	: 240
 								},
 								margin : 5
@@ -45,7 +45,7 @@ $(function() {
 							/*
 							 * just for this demo:
 							 */
-							$('#overlay').fadeIn(500);
+							$('#overlay').fadeIn(200);
 						}
 					}).attr('src',$img.attr('src'));
 				});

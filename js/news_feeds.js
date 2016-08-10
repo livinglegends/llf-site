@@ -8,8 +8,11 @@ $(function() {
       function(response) {
         // console.log();
         $.each(response.query.results.item, function (i,newsItem) {
-            var AAN_description = newsItem.description.split("...<br/>")[0];
-            $("#AllAccessNews-cont").append('<div class="media"><a class="pull-left" target="_blank" href="'+newsItem.link+'"><img class="media-object" src="img/ALLACCESSnewsimg.png"  alt="100x100" style="width: 100px; height: 100px;"></a><div class="media-body"><h4 class="media-heading">' + newsItem.title + '</h4><p>' + AAN_description + '<br><br><a target="_blank" href="' + newsItem.link + '">Read more</a></p></div></div>');
+            // var AAN_description = newsItem.description.split("...<br/>")[0];
+            var AAN_description = newsItem.description;
+
+            // if(AAN_description == newsItem.description){console.log("blerg");};
+            $("#AllAccessNews-cont").append('<div class="media-news-item"><a class="pull-left" target="_blank" href="'+newsItem.link+'"><img class="media-object" src="img/ALLACCESSnewsimg.png"  alt="100x100" style="width: 100px; height: 100px;"></a><div class="media-body"><h4 class="media-heading">' + newsItem.title + '</h4><p>' + AAN_description);
             return ( i !== (numArticles -1) );
         });
       });
@@ -18,7 +21,7 @@ $(function() {
         function(response) {
           $.each(response.query.results.item, function (i,newsItem) {
               var RF_description = newsItem.description.split("...<br/>")[0];
-              $("#RadioFacts-cont").append('<div class="media"><a class="pull-left" target="_blank" href="'+newsItem.link+'"><img class="media-object" src="img/radiofacts.jpg"  alt="100x100" style="width: 100px; height: 100px;"></a><div class="media-body"><h4 class="media-heading">' + newsItem.title + '</h4><p>' + RF_description + '...<br><br><a target="_blank" href="' + newsItem.link + '">Read more</a></p></div></div>');
+              $("#RadioFacts-cont").append('<div class="media-news-item"><a class="pull-left" target="_blank" href="'+newsItem.link+'"><img class="media-object" src="img/radiofacts.jpg"  alt="100x100" style="width: 100px; height: 100px;"></a><div class="media-body"><h4 class="media-heading">' + newsItem.title + '</h4><p>' + RF_description + '... <a target="_blank" href="' + newsItem.link + '">more </a></p></div></div>');
 
               return ( i !== (numArticles -1) );
           });
