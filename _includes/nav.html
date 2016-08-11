@@ -16,10 +16,10 @@
         </div> <!-- navbar-header -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li class="">
+                <li class="" id="home">
                     <a href="{{site.github.url}}/" class="">Home</a>
                 </li>
-                <li class="dropdown">
+                <li class="dropdown" id="about">
                     <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">About</a>
                      <ul class="dropdown-menu dropdown-menu-left">
                         <li><a href="about.html" id="aboutlink">About the Foundation</a></li>
@@ -28,12 +28,12 @@
                         <li><a href="about.html" id="boardlink">Meet the Board</a></li>
                     </ul>
                 </li>
-                <li class="">
+                <li class="" id="hall">
                     <a href="halloffame.html" class="">Hall of Fame</a>
                 </li>
                 <!-- <li class=""><div class="header-full-title" style="width:250px;height:100px;"></div></li> -->
 
-                <li class="dropdown">
+                <li class="dropdown" id="photos">
                     <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Photos</a>
                       <ul class="dropdown-menu dropdown-menu-left">
                           {% for item in site.photogalleries %}
@@ -42,7 +42,7 @@
 
                      </ul>
                 </li>
-                <li class="">
+                <li class="" id="events">
                     <a href="calendar.html" class="">Events</a>
                 </li>
                 <!-- <li class="dropdown">
@@ -51,16 +51,16 @@
                         <li><a href="about.html">Radio Airchecks</a></li>
                     </ul>
                 </li> -->
-                <li class="">
+                <li class="" id="facebook">
                     <a target="_blank" href="https://www.facebook.com/The-Living-Legends-Foundation-93903037648/"><i class="fa fa-facebook"></i></a>
                 </li>
-                <li class="">
+                <li class="" id="twitter">
                     <a target="_blank" href="https://twitter.com/thellfinc/"><i class="fa fa-twitter"></i></a>
                 </li>
-                <li class="">
+                <li class="" id="instagram">
                     <a target="_blank" href="https://www.instagram.com/livinglegendsfoundation/"><i class="fa fa-instagram"></i></a>
                 </li>
-                <li class="">
+                <li class="" id="envelope">
                     <a href="mailto:thelivinglegendsfoundationinc@gmail.com?Subject=Contact%20Us"><i class="fa fa-envelope"></i></a>
                 </li>
 <!-- =======

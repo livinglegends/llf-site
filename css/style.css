@@ -3480,7 +3480,7 @@ a.thumbnail.active {
 }
 @media (min-width: 360px) and (max-width: 768px) {
   .navbar-default .navbar-brand {
-    margin-left: 10px;
+    background: none;
   }
 }
 @media (max-width: 400px) {
@@ -3572,6 +3572,21 @@ a.thumbnail.active {
     background-image: -o-linear-gradient(bottom, #737373, #808080);
     background-image: linear-gradient(to top, #737373, #808080);
     color: #fff;
+  }
+}
+/*Navbar-collapse elements are block, 'cept for social media*/
+@media (max-width: 767px){
+  #home,
+  #about,
+  #hall,
+  #photos,
+  #events{
+    display: block;
+  }
+  #about,
+  #photos{
+    padding-left: 0px;
+    padding-right: 0px;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -6138,6 +6153,7 @@ a.feature-icon:hover {
     display: inline-block;
     padding: 0 1.6%;
 }
+
 .navbar-nav>li:hover,
 .navbar-nav>li:focus {
   background-color: #808080;
