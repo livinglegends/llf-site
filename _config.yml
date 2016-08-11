@@ -9,3 +9,5 @@ collections:
     output: false
   photogalleries:
     output: true
+  officers:
+    output: false
