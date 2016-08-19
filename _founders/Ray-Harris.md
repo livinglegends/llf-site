@@ -1,5 +1,5 @@
 ---
-name: "Ray-Harris"
+name: "Ray Harris"
 img: yes
 img_path: /img/_founders/ray-harris-founder.jpg
 ---

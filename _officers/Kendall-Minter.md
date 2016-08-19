@@ -1,5 +1,5 @@
 ---
-name: "Kendall Minter, ESQ - General Counsel"
+name: "Kendall Minter, Esq. - General Counsel"
 img: nil
 img_path: nil
 ---
