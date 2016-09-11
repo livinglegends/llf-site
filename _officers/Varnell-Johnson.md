@@ -29,3 +29,7 @@ new legion of fans especially their front man Ron Isley, known to today&#39;s
 audiences as &quot;Mr. Big.&quot; Today, Mr. Johnson manages his own Junes
 Entertainment Company, still providing his expertise to many of today&#39;s leading
 music companies.
+
+<br>
+<img class="center-block" src="../img/board/varnell-johnson.jpg">
+<p class="text-center"><em>Varnell Johnson</em></p>

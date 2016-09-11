@@ -35,3 +35,7 @@ Champion Ray Mercer, Peter Tosh, Ashanti, M.C. Lyte, Heavy D &amp; The Boyz,
 Mtume, Kirk Franklin, Fred Hammond, Bishop Eddie Long and New Birth
 Missionary Baptist Church, Juanita Bynum, Arrow Records (Dr. Creflo Dollar),
 Montell Jordan and Victory World Church and numerous others.
+
+<br>
+<img class="center-block" src="../img/board/kendall-minter.jpg">
+<p class="text-center"><em>Kendall Minter, Esq.</em></p>

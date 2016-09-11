@@ -30,3 +30,7 @@ Ms. Rhinehart is also a published journalist and this South Carolina native onc
 served as Director of the South Carolina’s Governor’s Mansion, planning and
 directing all the public and legislative events at the residence and coordinating
 the First Lady’s itinerary and official schedule.
+
+<br>
+<img class="center-block" src="../img/board/jackie-rhinehart.jpg">
+<p class="text-center"><em>Jacqueline “Jackie” Rhinehart</em></p>

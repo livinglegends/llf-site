@@ -53,3 +53,7 @@ of The Year Award” for a record breaking 5 consecutive years (1990-94). The
 award was later renamed the “Ray Harris Award” for deserving executives.  Ray
 has received over 75 Platinum &amp; Gold awards for the artists he’s represented
 over the years.
+
+<br>
+<img class="center-block" src="../img/board/ray-harris-founder.jpg">
+<p class="text-center"><em>Ray Harris</em></p>

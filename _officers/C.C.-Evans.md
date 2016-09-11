@@ -11,3 +11,7 @@ from an administrative assistant to the position of Operations Manager R&amp;B
 Music at Capitol Records, when looking for someone to keep their departments
 on course, many have turned to CC. Currently, Ms. Evans holds a position at
 Fox Studios.
+
+<br>
+<img class="center-block" src="../img/board/cc-evans.jpg">
+<p class="text-center"><em>Cecelia 'C.C.' Evans</em></p>

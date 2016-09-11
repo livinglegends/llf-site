@@ -22,3 +22,7 @@ Linton created the Communications Dept. at Elizabeth City State University, incl
 watt FM station WRVS-FM. Today he provides consulting to both independent and major labels
 and artists through his company Not Nil Entertainment. He also serves as EVP Urban at CO5
 Music, LLC.
+
+<br>
+<img class="center-block" src="../img/board/David-linton.jpg">
+<p class="text-center"><em>David C. Linton</em></p>

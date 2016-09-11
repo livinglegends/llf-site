@@ -16,3 +16,7 @@ Sr. VP/Entertainment Programming for American Urban Radio Networks.
 Prior to his death in 2014, the &quot;Doctor,&quot; as he is known in the industry, was the Urban
 Editor for All Access and managed his own consultancy company, specializing in
 Arbitron diary analyses which measure audiences listening patterns.
+
+<br>
+<img class="center-block" src="../img/board/JERRY-BOULDING.gif">
+<p class="text-center"><em>Jerry Boulding</em></p>

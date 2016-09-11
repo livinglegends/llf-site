@@ -1,7 +1,7 @@
 ---
 name: "Barbara Lewis"
-img: yes
-img_path: /img/_founders/barbara-lewis.jpg
+img: no
+img_path: ../img/board/barbara-lewis.jpg
 ---
 
 A member of the LLF since its inception, this veteran has held senior
@@ -14,3 +14,7 @@ II Men, Johnny Mathis, Master P, George Michael and BeBe and Ce Ce Winans.
 
 Today, she runs B&amp;B Productions providing consultation to both major and
 independent record labels.
+
+<br>
+<img class="center-block" src="../img/board/barbara-lewis.jpg">
+<p class="text-center"><em>Barbara Lewis</em></p>

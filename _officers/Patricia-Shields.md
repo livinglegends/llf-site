@@ -21,3 +21,7 @@ Music Association, Vice-Chairperson of the Board of Directors of the Institute f
 Black Parenting, and was one of the founding members of the Warner Bros
 Records Mentoring Program. She is a recipient of a Black Woman Of
 Achievement medal from the Legal Defense Fund.
+
+<br>
+<img class="center-block" src="../img/board/pat-shields.jpg">
+<p class="text-center"><em>Patricia Shields</em></p>
