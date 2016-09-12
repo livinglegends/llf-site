@@ -24,5 +24,5 @@ and artists through his company Not Nil Entertainment. He also serves as EVP Urb
 Music, LLC.
 
 <br>
-<img class="center-block" src="../img/board/David-linton.jpg">
+<img class="center-block" src="img/board/David-linton.jpg">
 <p class="text-center"><em>David C. Linton</em></p>

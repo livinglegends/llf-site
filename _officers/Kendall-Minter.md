@@ -37,5 +37,5 @@ Missionary Baptist Church, Juanita Bynum, Arrow Records (Dr. Creflo Dollar),
 Montell Jordan and Victory World Church and numerous others.
 
 <br>
-<img class="center-block" src="../img/board/kendall-minter.jpg">
+<img class="center-block" src="img/board/kendall-minter.jpg">
 <p class="text-center"><em>Kendall Minter, Esq.</em></p>

@@ -18,5 +18,5 @@ Editor for All Access and managed his own consultancy company, specializing in
 Arbitron diary analyses which measure audiences listening patterns.
 
 <br>
-<img class="center-block" src="../img/board/JERRY-BOULDING.gif">
+<img class="center-block" src="img/board/JERRY-BOULDING.gif">
 <p class="text-center"><em>Jerry Boulding</em></p>

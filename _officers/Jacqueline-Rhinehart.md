@@ -32,5 +32,5 @@ directing all the public and legislative events at the residence and coordinatin
 the First Lady’s itinerary and official schedule.
 
 <br>
-<img class="center-block" src="../img/board/jackie-rhinehart.jpg">
+<img class="center-block" src="img/board/jackie-rhinehart.jpg">
 <p class="text-center"><em>Jacqueline “Jackie” Rhinehart</em></p>

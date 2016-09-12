@@ -13,5 +13,5 @@ on course, many have turned to CC. Currently, Ms. Evans holds a position at
 Fox Studios.
 
 <br>
-<img class="center-block" src="../img/board/cc-evans.jpg">
+<img class="center-block" src="img/board/cc-evans.jpg">
 <p class="text-center"><em>Cecelia 'C.C.' Evans</em></p>

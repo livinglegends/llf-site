@@ -23,5 +23,5 @@ Records Mentoring Program. She is a recipient of a Black Woman Of
 Achievement medal from the Legal Defense Fund.
 
 <br>
-<img class="center-block" src="../img/board/pat-shields.jpg">
+<img class="center-block" src="img/board/pat-shields.jpg">
 <p class="text-center"><em>Patricia Shields</em></p>

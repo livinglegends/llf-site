@@ -16,5 +16,5 @@ Today, she runs B&amp;B Productions providing consultation to both major and
 independent record labels.
 
 <br>
-<img class="center-block" src="../img/board/barbara-lewis.jpg">
+<img class="center-block" src="img/board/barbara-lewis.jpg">
 <p class="text-center"><em>Barbara Lewis</em></p>

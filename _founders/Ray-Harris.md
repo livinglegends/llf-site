@@ -55,5 +55,5 @@ has received over 75 Platinum &amp; Gold awards for the artists he’s represent
 over the years.
 
 <br>
-<img class="center-block" src="../img/board/ray-harris-founder.jpg">
+<img class="center-block" src="img/board/ray-harris-founder.jpg">
 <p class="text-center"><em>Ray Harris</em></p>
