@@ -1,5 +1,6 @@
 ---
-name: "Monica Alexander"
+title: Monica Alexander
+name: Monica Alexander
 img: nil
 img_path: nil
 ---

@@ -1,6 +1,7 @@
 ---
-name: "Verna S. Green"
-inducted: "1997"
+title: Verna S. Green
+name: Verna S. Green
+inducted: '1997'
 img: nil
 img_path: nil
 ---

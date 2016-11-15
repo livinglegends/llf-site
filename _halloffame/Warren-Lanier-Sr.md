@@ -1,6 +1,7 @@
 ---
-name: "Warren Lanier Sr."
-inducted: "1996"
+title: Warren Lanier Sr
+name: Warren Lanier Sr.
+inducted: '1996'
 img: nil
 img_path: nil
 ---

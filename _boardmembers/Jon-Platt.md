@@ -1,7 +1,8 @@
 ---
-name: "Jon Platt"
-img: yes
-img_path: /img/_board_members/bigjon.jpg
+title: Jon Platt
+name: Jon Platt
+img: true
+img_path: "/img/_board_members/bigjon.jpg"
 ---
 
 Jon Platt is a powerhouse in the music industry and considered one of the most

@@ -1,6 +1,7 @@
 ---
-name: "Martha Jean Steinberg"
-inducted: "1994"
+title: Martha Jean_steinberg
+name: Martha Jean Steinberg
+inducted: '1994'
 img: nil
 img_path: nil
 ---

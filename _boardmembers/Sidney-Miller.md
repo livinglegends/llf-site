@@ -1,7 +1,8 @@
 ---
-name: "Sidney Miller"
-img: yes
-img_path: /img/_board_members/sid3.gif
+title: Sidney Miller
+name: Sidney Miller
+img: true
+img_path: "/img/_board_members/sid3.gif"
 ---
 
 Mr. Miller is the founder and publisher of Black Radio Exclusive (BRE), the first

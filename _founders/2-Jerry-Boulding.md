@@ -1,7 +1,8 @@
 ---
-name: "Jerry Boulding"
-img: yes
-img_path: /img/_founders/jerry.gif
+title: 2 Jerry Boulding
+name: Jerry Boulding
+img: true
+img_path: "/img/_founders/jerry.gif"
 ---
 
 The late Jerry Boulding was a former air-talent, production director and broadcaster who

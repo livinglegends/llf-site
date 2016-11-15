@@ -1,7 +1,8 @@
 ---
-name: "Miller London"
-img: yes
-img_path: /img/_board_members/miller.gif
+title: Miller London
+name: Miller London
+img: true
+img_path: "/img/_board_members/miller.gif"
 ---
 
 Miller London served as President of Urban Network Magazine for 9 years before

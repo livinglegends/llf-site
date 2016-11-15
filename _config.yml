@@ -1,13 +1,28 @@
+---
+title: Llf Site
+timezone: UTC
 collections:
-  founders:
+  advisoryboard:
+    title: Advisoryboard
     output: false
   boardmembers:
+    title: Boardmembers
     output: false
-  advisoryboard:
+  founders:
+    title: Founders
     output: false
   halloffame:
+    title: Halloffame
+    output: false
+  officers:
+    title: Officers
     output: false
   photogalleries:
+    title: Photogalleries
     output: true
-  officers:
-    output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true

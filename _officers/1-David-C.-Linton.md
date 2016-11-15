@@ -1,5 +1,6 @@
 ---
-name: "David C. Linton - Chairman"
+title: 1 David C. Linton
+name: David C. Linton - Chairman
 img: nil
 img_path: nil
 ---

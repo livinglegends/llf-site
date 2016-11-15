@@ -1,7 +1,8 @@
 ---
-name: "A.D. Washington"
-img: yes
-img_path: /img/_board_members/ad.jpg
+title: A.d. Washington
+name: A.D. Washington
+img: true
+img_path: "/img/_board_members/ad.jpg"
 ---
 
 A.D. Washington, or &quot;A.D.&quot; as he is known, is a 25-year music veteran whose

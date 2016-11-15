@@ -1,5 +1,6 @@
 ---
-name: "George Daniels"
+title: George Daniels
+name: George Daniels
 img: nil
 img_path: nil
 ---

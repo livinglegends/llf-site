@@ -1,5 +1,6 @@
 ---
-name: "Gwendolyn Quinn"
+title: Gwendolyn Quinn
+name: Gwendolyn Quinn
 img: nil
 img_path: nil
 ---

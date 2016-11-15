@@ -1,7 +1,8 @@
 ---
-name: "Ray Harris"
-img: yes
-img_path: /img/_founders/ray-harris-founder.jpg
+title: 1 Ray Harris
+name: Ray Harris
+img: true
+img_path: "/img/_founders/ray-harris-founder.jpg"
 ---
 
 Ray Harris is the Founding Chairman of The Living Legends Foundation.  He

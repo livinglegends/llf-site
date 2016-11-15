@@ -1,6 +1,7 @@
 ---
-name: "Eddie Castleberry"
-inducted: "1999"
+title: Eddie Castleberry
+name: Eddie Castleberry
+inducted: '1999'
 img: nil
 img_path: nil
 ---

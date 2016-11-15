@@ -1,7 +1,8 @@
 ---
-name: "Barbara Lewis"
-img: no
-img_path: ../img/board/barbara-lewis.jpg
+title: 3 Barbara Lewis
+name: Barbara Lewis
+img: false
+img_path: "../img/board/barbara-lewis.jpg"
 ---
 
 A member of the LLF since its inception, this veteran has held senior

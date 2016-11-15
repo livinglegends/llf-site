@@ -1,5 +1,6 @@
 ---
-name: "TC Thompkins"
+title: Tc Thompkins
+name: TC Thompkins
 img: nil
 img_path: nil
 ---

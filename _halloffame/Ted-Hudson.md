@@ -1,6 +1,7 @@
 ---
-name: "Ted Hudson"
-inducted: "1996"
+title: Ted Hudson
+name: Ted Hudson
+inducted: '1996'
 img: nil
 img_path: nil
 ---

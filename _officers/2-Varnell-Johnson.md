@@ -1,5 +1,6 @@
 ---
-name: "Varnell Johnson - President"
+title: 2 Varnell Johnson
+name: Varnell Johnson - President
 img: nil
 img_path: nil
 ---

@@ -1,6 +1,7 @@
 ---
-name: "Melvin Moore"
-inducted: "1992"
+title: Melvin Moore
+name: Melvin Moore
+inducted: '1992'
 img: nil
 img_path: nil
 ---

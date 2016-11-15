@@ -1,5 +1,6 @@
 ---
-name: "Jacqueline “Jackie” Rhinehart - Vice President"
+title: 3 Jacqueline Rhinehart
+name: Jacqueline “Jackie” Rhinehart - Vice President
 img: nil
 img_path: nil
 ---

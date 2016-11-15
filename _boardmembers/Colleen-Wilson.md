@@ -1,7 +1,8 @@
 ---
-name: "Colleen Wilson"
-img: yes
-img_path: /img/_board_members/olleen-wilson.jpg
+title: Colleen Wilson
+name: Colleen Wilson
+img: true
+img_path: "/img/_board_members/olleen-wilson.jpg"
 ---
 
 Colleen Wilson’s love for music led her to pursue a career in the music industry

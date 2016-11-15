@@ -1,6 +1,7 @@
 ---
-name: "Emma Garrett"
-inducted: ""
+title: Emma Garrett
+name: Emma Garrett
+inducted: ''
 img: nil
 img_path: nil
 ---

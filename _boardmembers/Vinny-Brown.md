@@ -1,7 +1,8 @@
 ---
-name: "Vinny Brown"
-img: yes
-img_path: /img/_board_members/vinnybrown.jpg
+title: Vinny Brown
+name: Vinny Brown
+img: true
+img_path: "/img/_board_members/vinnybrown.jpg"
 ---
 
 Vinny Brown is a native New Yorker recognized and distinguished among the

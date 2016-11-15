@@ -1,6 +1,7 @@
 ---
-name: "Douglass Jocko Henderson"
-inducted: "1993"
+title: Douglass Jocko Henderson
+name: Douglass Jocko Henderson
+inducted: '1993'
 img: nil
 img_path: nil
 ---

@@ -1,8 +1,9 @@
 ---
-layout: photogalleries
 title: 2014 Annual Living Legends Award Banquet
+layout: photogalleries
 datafile: LLF_2014_BANQUET
 ---
+
 <div class="am-container" id="am-container">
   {% assign gal = page.datafile %}
   <span id="whatgal" style="display:none;">{{gal}}</span>

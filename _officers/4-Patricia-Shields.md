@@ -1,5 +1,6 @@
 ---
-name: "Patricia Shields – Recording Secretary"
+title: 4 Patricia Shields
+name: Patricia Shields – Recording Secretary
 img: nil
 img_path: nil
 ---

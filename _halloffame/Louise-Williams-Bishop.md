@@ -1,6 +1,7 @@
 ---
-name: "Louise Williams Bishop"
-inducted: "1993"
+title: Louise Williams Bishop
+name: Louise Williams Bishop
+inducted: '1993'
 img: nil
 img_path: nil
 ---

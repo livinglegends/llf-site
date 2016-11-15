@@ -1,5 +1,6 @@
 ---
-name: "Irene Johnson Ware"
+title: Irene Johnson Ware
+name: Irene Johnson Ware
 img: nil
 img_path: nil
 ---

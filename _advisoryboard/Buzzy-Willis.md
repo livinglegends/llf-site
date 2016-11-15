@@ -1,5 +1,6 @@
 ---
-name: "Buzzy Willis"
+title: Buzzy Willis
+name: Buzzy Willis
 img: nil
 img_path: nil
 ---

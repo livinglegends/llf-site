@@ -1,6 +1,7 @@
 ---
-name: "Bernardine C. Washington"
-inducted: "1993"
+title: Bernardine C. Washington
+name: Bernardine C. Washington
+inducted: '1993'
 img: nil
 img_path: nil
 ---
