@@ -27,7 +27,7 @@ $(function() {
           });
         });
 
-        $.getJSON("https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20rss%20where%20url%3D%22http%3A%2F%2Fwww.billboard.com%2Frss%2Fcharts%2Fhot-100%3Fformat%3Dxml%22&format=json&diagnostics=true&callback=",
+        /*$.getJSON("https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20rss%20where%20url%3D%22http%3A%2F%2Fwww.billboard.com%2Frss%2Fcharts%2Fhot-100%3Fformat%3Dxml%22&format=json&diagnostics=true&callback=",
           function(response) {
             $.each(response.query.results.item, function (i,newsItem) {
                 var RF_description = newsItem.description.split("...<br/>")[0];
@@ -35,7 +35,7 @@ $(function() {
 
                 return ( i !== (numArticles -1) );
             });
-          });
+          });*/
 
         // $.getJSON("https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20rss%20where%20url%3D%22http%3A%2F%2Fwww.allaccess.com%2Ffeed%2Fnet-news.rss%22&format=json&diagnostics=true&callback=",
         //   function(response) {
