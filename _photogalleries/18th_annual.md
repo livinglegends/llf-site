@@ -1,5 +1,5 @@
 ---
-title: 18th Annual Living Legends Award Banquet
+title: 17th Annual/2011 Living Legends Award Banquet
 layout: photogalleries
 datafile: LLF_18TH_ANNUAL
 ---

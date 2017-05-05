@@ -1,5 +1,5 @@
 ---
-title: 15th Annual Living Legends Award Banquet
+title: 15th Annual/2008 Living Legends Award Banquet
 layout: photogalleries
 datafile: LLF_15TH_ANNUAL
 ---

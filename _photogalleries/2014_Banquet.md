@@ -1,5 +1,5 @@
 ---
-title: 2014 Annual Living Legends Award Banquet
+title: 18th Annual/2014 Annual Living Legends Award Banquet
 layout: photogalleries
 datafile: LLF_2014_BANQUET
 ---
