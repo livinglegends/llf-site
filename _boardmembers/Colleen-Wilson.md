@@ -2,7 +2,7 @@
 title: Colleen Wilson
 name: Colleen Wilson
 img: true
-img_path: "/img/_board_members/olleen-wilson.jpg"
+img_path: "/img/_board/colleen-wilson.jpg"
 ---
 
 Colleen Wilson’s love for music led her to pursue a career in the music industry
@@ -23,3 +23,7 @@ Wayne, Birdman, Erykah Badu, Kem and Melanie Fiona.
 
 She brings that same energy and tenacity that has defined her career to assist
 the Living Legends Foundation in their worthy endeavors.
+
+<br>
+<img class="center-block" src="img/board/colleen-wilson.jpg">
+<p class="text-center"><em>Colleen Wilson</em></p>

@@ -2,7 +2,7 @@
 title: Miller London
 name: Miller London
 img: true
-img_path: "/img/_board_members/miller.gif"
+img_path: "/img/_board/miller.gif"
 ---
 
 Miller London served as President of Urban Network Magazine for 9 years before
@@ -18,3 +18,7 @@ development to Vice President Sales and Marketing. His 21 years at Motown
 Records in various capacities including Senior VP /GM, has afforded him the
 vantage point of seeing the music business as few have, working closely with
 Motown Founder Berry Gordy.
+
+<br>
+<img class="center-block" src="img/board/miller.gif">
+<p class="text-center"><em>Miller London</em></p>

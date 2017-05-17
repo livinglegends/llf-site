@@ -2,7 +2,7 @@
 title: Jon Platt
 name: Jon Platt
 img: true
-img_path: "/img/_board_members/bigjon.jpg"
+img_path: "/img/_board/bigjon.jpg"
 ---
 
 Jon Platt is a powerhouse in the music industry and considered one of the most
@@ -30,3 +30,7 @@ re-signing of Barry Gibb and Robby Robertson. In December 2013 Jon was
 promoted to President, North America, WCM taking on a newly expanded
 leadership role, overseeing teams across WCM’s offices in New York, Nashville,
 Miami, Toronto and the company’s headquarters in Los Angeles.
+
+<br>
+<img class="center-block" src="img/board/bigjon.jpg">
+<p class="text-center"><em>Jon Platt</em></p>

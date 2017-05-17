@@ -2,7 +2,7 @@
 title: A.d. Washington
 name: A.D. Washington
 img: true
-img_path: "/img/_board_members/ad.jpg"
+img_path: "/img/_board/ad.jpg"
 ---
 
 A.D. Washington, or &quot;A.D.&quot; as he is known, is a 25-year music veteran whose
@@ -21,3 +21,7 @@ received numerous awards over his career for his leadership. His management
 style and his vision, had kept AD a key player in the music business. Today he
 operates his own entertainment consulting company, AD Barak Corporation,
 which continues to make an impact on today&#39;s musical landscape.
+
+<br>
+<img class="center-block" src="img/board/ad.jpg">
+<p class="text-center"><em>A.D. Washington</em></p>
