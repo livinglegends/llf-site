@@ -6162,6 +6162,11 @@ a.feature-icon:hover {
     display: inline-block;
     padding: 0 1.6%;
 }
+@media(min-width: 767px) and (max-width:1199px){
+  .navbar-nav>li{
+    padding: 0 1.1%;
+  }
+}
 
 .navbar-nav>li:hover,
 .navbar-nav>li:focus {
